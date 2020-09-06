@@ -1,0 +1,15 @@
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\BLL.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\BLL.pdb
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\DAL.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\Model.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\Command.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\DAL.pdb
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\Model.pdb
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\Command.pdb
+D:\公司\金二\jin2\Solution_jin2\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\公司\金二\jin2\Solution_jin2\BLL\obj\Release\BLL.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\obj\Release\BLL.pdb
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\itextsharp.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\itextsharp.xmlworker.dll
+D:\公司\金二\jin2\Solution_jin2\BLL\bin\Release\itextsharp.xml

@@ -1,0 +1,16 @@
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\DAL.dll
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\DAL.pdb
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\Command.dll
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\Model.dll
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\Command.pdb
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\Model.pdb
+D:\公司\金二\jin2\Solution_jin2\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\公司\金二\jin2\Solution_jin2\DAL\obj\Release\DAL.dll
+D:\公司\金二\jin2\Solution_jin2\DAL\obj\Release\DAL.pdb
+D:\新程序\金2\jin2\Solution_jin2\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\新程序\金2\jin2\Solution_jin2\DAL\obj\Release\DAL.dll
+D:\新程序\金2\jin2\Solution_jin2\DAL\obj\Release\DAL.pdb
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\itextsharp.dll
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\itextsharp.xmlworker.dll
+D:\公司\金二\jin2\Solution_jin2\DAL\bin\Release\itextsharp.xml

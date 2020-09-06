@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" style="height: 100%;" runat="server" id="html">
+<head id="Head1" runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="renderer" content="webkit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link href="../layui/css/layui.css" rel="stylesheet" media="all" />
+    <script src="../layui/layui.js"></script>
+    <link href="../layui/style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="MasterPage_head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript">
+
+    </script>
+</head>
+<body class="layui-layout-body" runat="server" id="body" style="height: 100%;">
+    <div class="layui-layout layui-layout-admin">
+        <asp:ContentPlaceHolder ID="MasterPage_menu" runat="server">
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="MasterPage_body" runat="server">
+        </asp:ContentPlaceHolder>
+        <div class="layui-footer" id="masterPage_div_foot" runat="server" style="margin: 0px; left: 0px; display: none; text-align: center;">
+            <!-- 底部固定区域 -->
+        </div>
+    </div>
+
+</body>
+<asp:contentplaceholder id="MasterPage_outbody" runat="server">
+    </asp:contentplaceholder>
+</html>
